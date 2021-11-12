@@ -13,4 +13,3 @@
 - <div class="csl-entry">Sutherland, B. R. (1999). Propagation and reflection of internal waves. <i>Physics of Fluids</i>, <i>11</i>(5), 1081–1090. https://doi.org/10.1063/1.869978</div>
 - Sutherland, Bruce R. Internal gravity waves. Cambridge university press, 2010.
 - <div class="csl-entry">Tuan, T. F., Hedinger, R., Silverman, S. M., &#38; Okuda, M. (1979). on Gravity Wave Induced Brut-Vaisala Oscillations. <i>J Geophys Res</i>, <i>84</i>(A2), 393–398. https://doi.org/10.1029/ja084ia02p00393</div>
-# Reflection
