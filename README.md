@@ -1,4 +1,6 @@
 # Buoyancy Frequency
+Notes are found in Meteor Research.pdf
+
 # References
 - <div class="csl-entry">Brown, P. G., Kalenda, P., ReVelle, D. O., &#38; Borovǐcka, J. (2003). The Moŕavka meteorite fall: 2. Interpretation of infrasonic and seismic data. <i>Meteoritics and Planetary Science</i>, <i>38</i>(7), 989–1003. https://doi.org/10.1111/j.1945-5100.2003.tb00294.x</div>
 - <div class="csl-entry">Chunchuzov, I. P. (2004). Influence of internal gravity waves on sound propagation in the lower atmosphere. <i>Meteorology and Atmospheric Physics</i>, <i>85</i>(1–3), 61–76. https://doi.org/10.1007/s00703-003-0034-y</div>
