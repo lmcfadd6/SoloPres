@@ -1,6 +1,6 @@
 # Buoyancy Frequency
 # General
-Repository for presentation on Buoyancy Frequency and how it relates to ray-tracing for meteors (the Bolide Acoustic Modelling program). Repository includes written notes (Meteor Research.pdf), the presentation, and a reflection on both my presentation, and other presentations in the class.
+Repository for presentation on Buoyancy Frequency and how it relates to ray-tracing for meteors (the Bolide Acoustic Modelling program). Repository includes written notes (Meteor Research.pdf), the presentation (ATMphys_buoyancyfreq.pdf), and a reflection on both my presentation, and other presentations in the class.
 
 # References
 - <div class="csl-entry">Brown, P. G., Kalenda, P., ReVelle, D. O., &#38; Borovǐcka, J. (2003). The Moŕavka meteorite fall: 2. Interpretation of infrasonic and seismic data. <i>Meteoritics and Planetary Science</i>, <i>38</i>(7), 989–1003. https://doi.org/10.1111/j.1945-5100.2003.tb00294.x</div>
